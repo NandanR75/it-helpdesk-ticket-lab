@@ -99,3 +99,4 @@ SLA BREACH REPORT — generated 2026-09-15 10:30
 - Web UI (Flask) instead of CLI
 - Email notifications on SLA breach
 - Basic reporting dashboard (tickets by category/priority over time)
+- ![Demo run](demo-run.png)
