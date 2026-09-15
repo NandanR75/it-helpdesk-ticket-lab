@@ -100,3 +100,4 @@ SLA BREACH REPORT — generated 2026-09-15 10:30
 - Email notifications on SLA breach
 - Basic reporting dashboard (tickets by category/priority over time)
 -![Demo run](Screenshot%20(452).png)
+![Demo run](Screenshot%20(453).png)
